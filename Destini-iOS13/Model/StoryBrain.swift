@@ -12,32 +12,32 @@ struct StoryBrain {
     
     let stories = [
         Story(
-            title: "Your car has blown a tire on a winding road in the middle of nowhere with no cell phone reception. You decide to hitchhike. A rusty pickup truck rumbles to a stop next to you. A man with a wide brimmed hat with soulless eyes opens the passenger door for you and asks: 'Need a ride, boy?'.",
-            choice1: "I'll hop in. Thanks for the help!", choice1Destination: 2,
-            choice2: "Better ask him if he's a murderer first.", choice2Destination: 1
+            title: "You are sitting on a sofa and decide to grab some food so you can peacefully watch \"Empire strikes back\" instead of doing diploma. You tell yourself that this film is the last one for today, but deep inside, know that's a lie. Suddenly see that outside your window, something is sparkling.",
+            choice1: "Go to check.", choice1Destination: 2,
+            choice2: "Nevermind and go for the food.", choice2Destination: 1
         ),
         Story(
-            title: "He nods slowly, unfazed by the question.",
-            choice1: "At least he's honest. I'll climb in.", choice1Destination: 2,
-            choice2: "Wait, I know how to change a tire.", choice2Destination: 3
+            title: "There is nothing in the kitchen. You stay near the empty fridge and think, is it possible to die because of an old yogurt? The challenge of life and death. Almost like not finished diploma two weeks before the first deadline of antiplagiarism. You hear some noises from your room and return. There is still sparkling from your window. Do you think that that ghost better remembers all IOS App Design Patterns?",
+            choice1: "Check on him.", choice1Destination: 2,
+            choice2: "Grab yogurt and return to your room.", choice2Destination: 3
         ),
         Story(
-            title: "As you begin to drive, the stranger starts talking about his relationship with his mother. He gets angrier and angrier by the minute. He asks you to open the glovebox. Inside you find a bloody knife, two severed fingers, and a cassette tape of Elton John. He reaches for the glove box.",
-            choice1: "I love Elton John! Hand him the cassette tape.", choice1Destination: 5,
-            choice2: "It's him or me! You take the knife and stab him.", choice2Destination: 4
+            title: "You come close and see a man in a robe with a lightsaber standing right in front of you. He's trying to say something, but you can't hear anything.",
+            choice1: "Open the window and say, \"Hello there.\"", choice1Destination: 5,
+            choice2: "Close the curtains.", choice2Destination: 4
         ),
         Story(
-            title: "What? Such a cop out! Did you know traffic accidents are the second leading cause of accidental death for most adult age groups?",
+            title: "You eat yogurt while watching the film. Maybe it is a curse from heaven for making nothing—a terrible choice. You fall sick for the next several days.",
             choice1: "The", choice1Destination: 0,
             choice2: "End", choice2Destination: 0
         ),
         Story(
-            title: "As you smash through the guardrail and careen towards the jagged rocks below you reflect on the dubious wisdom of stabbing someone while they are driving a car you are in.",
+            title: "The situation is weird and even scary. Not so frightening like the teacher of programming from Lviv Polytechnic, but still. The thought of university doesn't get out of your head. Better return to the diploma. You win, Lviv Polytechnic.",
             choice1: "The", choice1Destination: 0,
             choice2: "End", choice2Destination: 0
         ),
         Story(
-            title: "You bond with the murderer while crooning verses of 'Can you feel the love tonight'. He drops you off at the next town. Before you go he asks you if you know any good places to dump bodies. You reply: 'Try the pier.'",
+            title: "\"General Kenobi!\" yell stranger and runs away. Finally! A sing from heaven. You close the window and return to the sofa to continue to watch a film. Not today, diploma, not today.",
             choice1: "The", choice1Destination: 0,
             choice2: "End", choice2Destination: 0
         )
